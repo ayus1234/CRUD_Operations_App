@@ -13,3 +13,6 @@ A basic Menu Driven CRUD Application in Java Where you can perform Create, Read,
 
 ## UPDATE
 ![Screenshot 2024-03-18 105331](https://github.com/ayus1234/CRUD_Operations_App/assets/107507481/da3dcd45-0986-4ba5-89dd-a15c6d465c2b)
+
+## DELETE
+![Screenshot 2024-03-18 110524](https://github.com/ayus1234/CRUD_Operations_App/assets/107507481/43aa26a5-b10c-4832-a65e-fdd0555eef42)
