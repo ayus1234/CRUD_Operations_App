@@ -143,7 +143,3 @@ crud-app/
 ## Contributing
 
 Feel free to submit issues and enhancement requests!
-
-## License
-
-This project is open source and available under the [MIT License](https://opensource.org/licenses/MIT).
